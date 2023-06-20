@@ -1,4 +1,4 @@
 - 👋 Hi, I’m **cobyzaby**
 - 🌱 I’m currently learning **python** and **bash**
 - 💞️ I’m looking to collaborate on **silly little things**
-- 📫 How to reach me: see my website https://cobyzaby.neocities.org
+- 📫 email me at cobyzaby AT gmail DOT com
